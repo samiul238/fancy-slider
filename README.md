@@ -2,7 +2,7 @@
 
 # For Bonus mark --- added :
 
-# Show Error Message When User negative Value Of Time As Input
+# Show Error Message When User Give Negative Value Of Time As Input
 # Show Toggle Spinner While Loading Images
 
 
